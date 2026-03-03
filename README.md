@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://techchahiye.com">
-    <img src="https://techchahiye.com/wp-content/uploads/2025/01/techchahiye-logo.png" alt="techchahiye.com" height="52" />
-  </a>
-</p>
-
 <h2 align="center">Techchahiye</h2>
 
 <p align="center">
